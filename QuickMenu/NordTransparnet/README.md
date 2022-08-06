@@ -8,4 +8,4 @@
  * Profit :trollface:
 
 <h3 align="center">Preview</h3>
-![QM Preview 1](CvrUiThemes/PreviewImages/QuickMenu/NordTransparent/qmp1.png?raw=true "QM Preview Image 1")
+<img width="635" alt="qmp1" src="https://github.com/Mezque/CvrUiThemes/blob/main/PreviewImages/QuickMenu/NordTransparent/qmp1.png?raw=true">
