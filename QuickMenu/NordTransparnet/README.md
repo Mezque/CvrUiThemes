@@ -8,4 +8,4 @@
  * Profit :trollface:
 
 <h3 align="center">Preview</h3>
-[Preview1](<CvrUiThemes\PreviewImages\QuickMenu\NordTransparent\qmp1.png>) 
+[Preview1](<.\CvrUiThemes\PreviewImages\QuickMenu\NordTransparent\qmp1.png>) 
