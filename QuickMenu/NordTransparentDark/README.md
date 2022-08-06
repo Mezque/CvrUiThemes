@@ -1,4 +1,4 @@
-<h1 align="center">Nord Quick Menu Theme</h1>
+<h1 align="center">Nord Transparent Dark Quick Menu Theme</h1>
 
 <h3 align="center">Install Guide</h3>
 
