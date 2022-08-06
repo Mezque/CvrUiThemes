@@ -11,7 +11,7 @@
 <h3 align="center">Previews</h3>
  <details>
   <summary>Nord Transparent Dark</summary>
-   QuickMenu:</br><img width="635" alt="qmp1" src="https://github.com/Mezque/CvrUiThemes/blob/main/PreviewImages/QuickMenu/NordTransparentDark/qmp1.png?raw=true"></br>
+   QuickMenu:</br><img width="635" alt="qmp1" src="https://github.com/Mezque/CvrUiThemes/blob/main/PreviewImages/QuickMenu/NordTransparentDark/qmp2.png?raw=true"></br>
  </details>
 
   <details>
