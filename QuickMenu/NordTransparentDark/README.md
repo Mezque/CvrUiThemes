@@ -8,5 +8,4 @@
  * Profit :trollface:
 
 <h3 align="center">Preview</h3>
-QuickMenu:</br><img width="635" alt="qmp1" src="https://github.com/Mezque/CvrUiThemes/blob/main/PreviewImages/QuickMenu/NordTransparentDark/qmp1.png?raw=true">
-Hover:</br> <img width="242" alt="qmphover" src="https://github.com/Mezque/CvrUiThemes/blob/main/PreviewImages/QuickMenu/NordTransparentDark/qmphover.png?raw=true">
+QuickMenu:</br><img width="635" alt="qmp1" src="https://github.com/Mezque/CvrUiThemes/blob/main/PreviewImages/QuickMenu/NordTransparentDark/qmp2.png?raw=true">
